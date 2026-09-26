@@ -1,0 +1,48 @@
+{
+ "id": "mCua4zxOjBSE",
+ "projectId": "H1OZm-3n5zJQ",
+ "episodeId": "WfmWmplRe-H6",
+ "title": "ににににめめっめえあ",
+ "text": "ああああおおおおおおおお",
+ "strokes": [
+  {
+   "id": "r7Yhl1aD94B6",
+   "color": "#2b2a28",
+   "width": 2.5,
+   "points": [
+    {
+     "x": 169.7,
+     "y": 83.3,
+     "p": 0.5
+    }
+   ]
+  },
+  {
+   "id": "Ma1tWwbGXWU7",
+   "color": "#2b2a28",
+   "width": 2.5,
+   "points": [
+    {
+     "x": 169.7,
+     "y": 83.3,
+     "p": 0.5
+    }
+   ]
+  },
+  {
+   "id": "u_cq3ica2Cnt",
+   "color": "#2b2a28",
+   "width": 2.5,
+   "points": [
+    {
+     "x": 28.3,
+     "y": 140,
+     "p": 0.5
+    }
+   ]
+  }
+ ],
+ "height": 320,
+ "order": 0,
+ "updatedAt": 1790102039874
+}
